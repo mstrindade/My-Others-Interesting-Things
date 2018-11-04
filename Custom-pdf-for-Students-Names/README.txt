@@ -1,4 +1,4 @@
-You need Matlab and Latex do do this. Follow the five steps:
+You need Matlab and Latex to do this. Follow the five steps:
 
 1 Create your students.xlsx table.
 2 Create your pdf at provacorpo.tex.
